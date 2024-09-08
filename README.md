@@ -3,7 +3,7 @@
 ⚡ Experience
   -  성균관대학교 대학·기업 협력형 SW아카데미 K-Software Empowerment BootCamp 1기
   -  대학생 연합 IT 벤처 창업동아리 SOPT 33기 서버파트
-
+  -  한국 대학생 IT 경영학회 큐시즘 30기
 
 
 
